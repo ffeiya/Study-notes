@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "代理相关.md",
+            "file": "git 相关设置.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代理相关.md",
+                "file": "git 相关设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +90,10 @@
   },
   "active": "96c7b330e508d8a7",
   "lastOpenFiles": [
+    "git 相关设置.md",
     "代理相关.md",
     "Ubuntu&&wsl相关配置.md",
     "scoop 相关.md",
-    "git 相关设置.md",
     "Config配置列表.md",
     "Ubuntu 换源.md",
     "switchOmega 代理.md"
