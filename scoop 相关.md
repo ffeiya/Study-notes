@@ -12,6 +12,7 @@ iwr -useb get.scoop.sh | iex
 
 ```shell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
+##test
 ```
 
 设置环境变量，安装到自定义目录
